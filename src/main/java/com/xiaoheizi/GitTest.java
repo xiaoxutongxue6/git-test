@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("及你太美");
         System.out.println("杜甫");
         System.out.println("李白");
+        System.out.println("push");
     }
 }
