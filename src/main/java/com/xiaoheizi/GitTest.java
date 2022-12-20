@@ -10,7 +10,6 @@ public class GitTest {
         System.out.println("李白");
         System.out.println("push");
          System.out.println("pull");
-        System.out.println("github版本一");
-        
+        System.out.println("gitee版本一");
     }
 }
